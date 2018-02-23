@@ -1,0 +1,10 @@
+---
+title: "hw01-kris-seo"
+author: "Kris Seo"
+date: "2/22/2018"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
