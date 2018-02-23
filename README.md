@@ -2,11 +2,11 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2018)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
-- Lab section: 101
-- GSI: Leia Organa
+- Name: Kris Seo
+- Github username: krisseo0202
+- Email: krisseo0202@berkeley.edu
+- Lab section: 105
+- GSI: Rui Chen
 
 -----
 
